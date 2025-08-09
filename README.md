@@ -37,7 +37,7 @@ The system features a clean, user-friendly interface and robust backend to ensur
 ---
 
 ## 🛠 Technologies Used  
-- **Java** (NetBeans IDE)  
+- **Java** (Intellij IDEA IDE)  
 - **MySQL** (WAMP Server – Apache & MySQL)  
 - **JDBC** for database connectivity  
 - **Swing / JavaFX** for UI components  
@@ -51,7 +51,7 @@ The system features a clean, user-friendly interface and robust backend to ensur
    git clone https://github.com/mukund-ahire/Library-Management-System.git
    ```
 
-2. **Open in NetBeans**  
+2. **Open in Intellij IDEA**  
    - Go to **File → Open Project**  
    - Select the cloned project folder  
 
@@ -70,7 +70,7 @@ The system features a clean, user-friendly interface and robust backend to ensur
    ```
 
 5. **Run the Project**  
-   - Build and run the project from **NetBeans**  
+   - Build and run the project from **Intellij IDA**  
 
 ---
 
